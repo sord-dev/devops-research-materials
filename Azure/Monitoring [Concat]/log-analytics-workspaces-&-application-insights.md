@@ -104,7 +104,7 @@ If you're not making a cloud design document, ignore this.
 >1. **Unified View**: It provides a unified view of all your application, infrastructure, and platform logs in a single consolidated location². This can simplify the process of analyzing and correlating data across multiple applications or services².
 >
 >2. **Access Control**: It allows for common Azure role-based access control across your resources, eliminating the need for cross-app/workspace queries².
-> 2.1. [example](../../Security%20[Concat]/Access%20Management%20(IAM)/Access%20Management%20(IAM).md)
+> 2.1. [example](../Security%20[Concat]/access-management-iam.md)
 
 >
 >3. **Resource Management**: It reduces the number of resources you need to manage. The recommendation is to keep the number of workspaces to a minimum unless you need clear separation due to different authorization, billing quotas, retention periods, regions, or environments¹.
