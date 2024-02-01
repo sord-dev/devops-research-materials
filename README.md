@@ -10,4 +10,4 @@ Should get you proficient and provide a place to log all info you'd need for any
 | :-------- | --- | -------- |
 |  [/Azure](./Azure/resources.md)   | 2  | AZ-900, AZ-104 |
 |  [/Dynamics365](./Power%20Platform/resources.md)   | 0  | PL-900 |
-|  [/PowerShell](./PowerShell/resources.md)   | 0  | PowerShell Scripting and automation  |
+|  [/PowerShell](./PowerShell/resources.md)   | 1  | PowerShell Scripting and automation  |
